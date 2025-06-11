@@ -1,6 +1,6 @@
 # Styling React App
 
-This project demonstrates various ways to style a React application. It's designed as a practical reference for learning and experimenting with different styling approaches—from traditional CSS to modern solutions like CSS-in-JS.
+This Demo app explain various ways to style a React application. It's designed as a practical reference for learning and experimenting with different styling approaches—from traditional CSS to modern solutions like CSS-in-JS.
 
 ## 📚 Based On
 
